@@ -8,31 +8,31 @@ This section covers optimization techniques for database operations in web appli
 
 ## Topics Covered
 
-### Query Optimization
+### [Query Optimization](./query-optimization.md)
 - Efficient SQL/NoSQL query patterns
 - Avoiding common query anti-patterns
 - Query plan analysis and optimization
 - The n+1 query problem and solutions
 
-### Indexing Strategies
+### [Indexing Strategies](./indexing-strategies.md)
 - Index types and use cases
 - Index selection and optimization
 - Composite indexes
 - Index maintenance and overhead considerations
 
-### Join Operations
+### [Join Operations](./join-operations.md)
 - Optimizing table joins
 - Performance implications of different join types
 - When to denormalize vs. using joins
 - Handling large join operations
 
-### Data Modeling Choices
+### [Data Modeling Choices](./data-modeling.md)
 - Normalization vs. denormalization trade-offs
 - Schema design for specific query patterns
 - Document vs. relational data modeling
 - Time-series data optimization
 
-### Transaction Management
+### [Transaction Management](./transaction-management.md)
 - Transaction isolation levels and performance
 - Optimistic vs. pessimistic locking
 - Deadlock prevention

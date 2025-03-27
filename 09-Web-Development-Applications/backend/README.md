@@ -8,27 +8,27 @@ This section covers optimization techniques for backend web development, focusin
 
 ## Topics Covered
 
-### API Endpoint Optimization
+### [API Endpoint Optimization](./api-optimization.md)
 - Response time optimization strategies
 - Request validation and sanitization
 - Error handling patterns and their performance implications
 
-### Middleware Design
+### [Middleware Design](./middleware-design.md)
 - Efficient request processing pipelines
 - Authentication and authorization optimizations
 - Logging and monitoring with minimal overhead
 
-### Caching Strategies
+### [Caching Strategies](./caching-strategies.md)
 - Memory-based caching (Redis, Memcached)
 - Content caching patterns and invalidation strategies
 - Database query caching techniques
 
-### Background Processing
+### [Background Processing](./background-processing.md)
 - Job queue implementations and optimizations
 - Worker pools and thread management
 - Scheduled task optimization
 
-### Server Scaling Patterns
+### [Server Scaling Patterns](./server-scaling-patterns.md)
 - Horizontal vs. vertical scaling considerations
 - Stateless design for improved scalability
 - Load balancing algorithms

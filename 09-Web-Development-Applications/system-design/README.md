@@ -8,25 +8,25 @@ This section covers optimization techniques for system design in web application
 
 ## Topics Covered
 
-### Architectural Patterns
+### [Architectural Patterns](./microservices-vs-monolith.md)
 - Microservices vs. monoliths performance trade-offs
 - Event-driven architecture optimization
 - Serverless computing efficiency considerations
 - Service mesh implementation strategies
 
-### Distributed Systems
+### [Distributed Systems](./distributed-systems.md)
 - CAP theorem and practical implications
 - Data consistency models and performance
 - Distributed caching strategies
 - Message queue patterns and optimization
 
-### Load Balancing
+### [Load Balancing](./load-balancing.md)
 - Algorithm selection and configuration
 - Session persistence strategies
 - Health check optimization
 - Geographic load balancing
 
-### Scaling Strategies
+### [Scaling Strategies](./scaling-strategies.md)
 - Horizontal vs. vertical scaling considerations
 - Autoscaling triggers and thresholds
 - Database sharding techniques
