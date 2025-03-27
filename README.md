@@ -43,37 +43,37 @@ Each topic follows this standard structure:
 
 ### Phase 1: Basic Data Structures and Algorithms
 
-2. [**Arrays & Strings**](./02-Arrays-Strings/README.md)
+2. **Arrays & Strings**
    - **Data Structures**: Arrays, Dynamic Arrays, Strings
    - **Algorithms**: Linear search, String manipulation, In-place operations
    - **Patterns**: Iteration, Two pointers for strings, String building
 
-3. [**Hash Maps & Sets**](./03-Hash-Maps-Sets/README.md)
+3. **Hash Maps & Sets**
    - **Data Structures**: Objects, Maps, Sets in JavaScript
    - **Algorithms**: Hashing functions, Collision resolution
    - **Patterns**: Frequency counting, Caching/memoization, De-duplication
 
-4. [**Two Pointers & Sliding Window Pattern**](./04-Two-Pointers-Sliding-Window/README.md)
+4. **Two Pointers & Sliding Window Pattern**
    - **Data Structures**: Arrays/Strings with pointer references
    - **Algorithms**: Fast & slow pointers, Converging pointers, Dynamic window sizing
    - **Patterns**: Two pointers, Sliding window, Multiple pointers
 
-5. [**Sorting & Binary Search**](./05-Sorting-Binary-Search/README.md)
+5. **Sorting & Binary Search**
    - **Data Structures**: Ordered arrays
    - **Algorithms**: Bubble Sort, Insertion Sort, Binary Search
    - **Patterns**: Divide and conquer, Comparison-based logic
 
-6. [**Stack & Queue**](./06-Stack-Queue/README.md)
+6. **Stack & Queue**
    - **Data Structures**: Stack, Queue, Deque
    - **Algorithms**: LIFO/FIFO operations, BFS implementation
    - **Patterns**: Matching pairs, Processing order management, Monotonic stack
 
-7. [**Linked Lists**](./07-Linked-Lists/README.md)
+7. **Linked Lists**
    - **Data Structures**: Singly & Doubly Linked Lists, Circular Lists
    - **Algorithms**: Traversal, Insertion, Deletion, Reversal
    - **Patterns**: Fast & slow pointers, Runner technique, Dummy heads
 
-8. [**Recursion & Backtracking**](./08-Recursion-Backtracking/README.md)
+8. **Recursion & Backtracking**
    - **Data Structures**: Call stack, Recursion trees
    - **Algorithms**: Recursive functions, Backtracking with constraints
    - **Patterns**: Base case & recursion steps, State exploration, Pruning
@@ -93,7 +93,7 @@ Each topic follows this standard structure:
      - Data transfer optimization
      - End-to-end performance testing
 
-10. [**Interview Preparation**](./10-Interview-Preparation/README.md)
+10. **Interview Preparation**
     - **Problem-Solving Strategies**:
       - Understanding problem requirements
       - Breaking down complex problems
@@ -109,32 +109,32 @@ Each topic follows this standard structure:
 
 ### Phase 3: Advanced Data Structures & Algorithms
 
-11. [**Trees**](./11-Trees/README.md)
+11. **Trees**
     - **Data Structures**: Binary Trees, BST, AVL Trees, Red-Black Trees
     - **Algorithms**: In-order/Pre-order/Post-order/Level-order traversals, Balancing
     - **Patterns**: Recursive tree traversal, Level-by-level processing, Path finding
 
-12. [**Graphs**](./12-Graphs/README.md)
+12. **Graphs**
     - **Data Structures**: Adjacency Matrix, Adjacency List, Edge List
     - **Algorithms**: DFS, BFS, Dijkstra's, Bellman-Ford, Floyd-Warshall
     - **Patterns**: Topological sorting, Connected components, Path finding
 
-13. [**Dynamic Programming**](./13-Dynamic-Programming/README.md)
+13. **Dynamic Programming**
     - **Data Structures**: Memoization tables, DP arrays
     - **Algorithms**: Bottom-up tabulation, Top-down recursion with memoization
     - **Patterns**: Optimal substructure, Overlapping subproblems, State transitions
 
-14. [**Advanced Sorting Algorithms**](./14-Advanced-Sorting/README.md)
+14. **Advanced Sorting Algorithms**
     - **Data Structures**: Arrays, External storage for merge sort
     - **Algorithms**: Quick Sort, Merge Sort, Heap Sort, Radix Sort
     - **Patterns**: Divide and conquer, Partitioning, In-place modification
 
-15. [**Advanced Data Structures**](./15-Advanced-Data-Structures/README.md)
+15. **Advanced Data Structures**
     - **Data Structures**: Heap (Priority Queue), Trie, Union-Find, Segment Tree
     - **Algorithms**: Heapify, Prefix matching, Path compression
     - **Patterns**: Priority processing, Prefix optimization, Disjoint sets
 
-16. [**Greedy Algorithms**](./16-Greedy-Algorithms/README.md)
+16. **Greedy Algorithms**
     - **Data Structures**: Priority Queue, Custom data structures
     - **Algorithms**: Activity selection, Huffman coding, Fractional knapsack
     - **Patterns**: Local optima leading to global solution, Sorting first, Prioritization
@@ -172,13 +172,6 @@ Each topic follows this standard structure:
 Begin with [Phase 0: Big O Notation](./01-Big-O-Notation/README.md) and work through each topic sequentially. Each folder contains a README.md with detailed instructions on how to approach that specific topic.
 
 After completing Phases 0 and 1, you'll have a solid foundation for most web development interviews. Phase 2 will help you apply this knowledge and prepare specifically for interviews. Phase 3 covers advanced topics for more competitive positions or specialized roles.
-
-## Resources
-
-- Interactive visualizations for common algorithms
-- Recommended books and courses
-- Problem-solving platforms
-- Web-specific DS&A applications
 
 ---
 
